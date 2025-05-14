@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "id": "gfnfnb",
+    "name": "nxlknblnbl",
+    "password": "ndfknbl",
+    "email": "kfjkjnbk@gmail.com",
+    "phone": "vndkjvnn",
+    "country": "india",
+    "address": "vvd",
+    "gender": "male"
+  }
+}

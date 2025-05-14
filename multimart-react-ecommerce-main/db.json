@@ -1,0 +1,95 @@
+{
+    "user": [
+      {},
+      {
+        "id": "jatin",
+        "name": "Jatin Garg",
+        "password": "hsbcbcj",
+        "email": "Jatingarg@gmail.com",
+        "phone": "8847414135",
+        "country": "india",
+        "address": "",
+        "gender": "male"
+      },
+      {
+        "id": "Jatin",
+        "name": "Jatin Garg",
+        "password": "bhbjhbjbc",
+        "email": "jatingarg@gmail.com",
+        "phone": "8847414135",
+        "country": "india",
+        "address": "",
+        "gender": "male"
+      },
+      {
+        "id": "Jatin1",
+        "name": "Jatin Garg",
+        "password": "Jatin123$$$",
+        "email": "Jatingarg@gmail.com",
+        "phone": "8847414135",
+        "country": "india",
+        "address": "Raman Mandi",
+        "gender": "male"
+      },
+      {
+        "id": "Reddy1",
+        "name": "Challa Reddy",
+        "password": "Reddy123",
+        "email": "reddy@gmail.com",
+        "phone": "8847414135",
+        "country": "india",
+        "address": "Hyderbad",
+        "gender": "male"
+      },
+      {
+        "id": "Garvit056",
+        "name": "Garvit Jain",
+        "password": "Garvit123",
+        "email": "garvit123@gmail.com",
+        "phone": "15151654+84",
+        "country": "india",
+        "address": "Uttar Pardesh",
+        "gender": "male"
+      },
+      {
+        "id": "Harsh123",
+        "name": "Harsh Vardha",
+        "password": "Harh123",
+        "email": "harsh@gmail.com",
+        "phone": "8847414135",
+        "country": "india",
+        "address": "Varanasi",
+        "gender": "male"
+      },
+      {
+        "id": "Jarin12345",
+        "name": "Jatin Garg",
+        "password": "dmnv v kv",
+        "email": "jatingarg@gmail.com",
+        "phone": "8847414135",
+        "country": "india",
+        "address": "Raman Mandi",
+        "gender": "male"
+      },
+      {
+        "id": "Ishaan042",
+        "name": "Ishaan Gupta",
+        "password": "Ishan123",
+        "email": "ishaan@gmail.com",
+        "phone": "4514+6454+",
+        "country": "india",
+        "address": "Chandigarh",
+        "gender": "male"
+      },
+      {
+        "id": "Hitesh",
+        "name": "Hitesh Katoch",
+        "password": "123456",
+        "email": "hitesh7@gmail.com",
+        "phone": "8894532398",
+        "country": "india",
+        "address": "",
+        "gender": "male"
+      }
+    ]
+  }
